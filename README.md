@@ -1,9 +1,24 @@
 ### Hi there 👋
 
-  I'm a data analytics student who is passionate about exploring and analyzing data to extract valuable insights. My interests include data visualization, statistical modeling, and machine learning. I am constantly seeking to improve my skills and knowledge in these areas by undertaking new projects and learning from experienced professionals.
+Hi 👋 My name is Dilys Huynh
+============================
 
-  As a student, I have worked on various projects related to data analytics, including analyzing social media data to understand consumer behavior and sentiment, creating predictive models to forecast sales trends, and developing dashboards to track business performance.
+Data Science and Analytics Student
+----------------------------------
 
-  In my free time, I enjoy participating in online data science communities and attending data-related events and webinars. I also enjoy staying active and playing sports, as I believe it is important to maintain a healthy balance between work and leisure.
+I'm a data analytics student who is passionate about exploring and analyzing data to extract valuable insights. My interests include data visualization, statistical modeling, and machine learning. I am constantly seeking to improve my skills and knowledge in these areas by undertaking new projects and learning from experienced professionals.
 
-  I am excited to continue learning and growing in the field of data analytics, and am always open to new opportunities and collaborations. If you have any questions or would like to connect, feel free to reach out to me on GitHub!
+*   ✉️  You can contact me at [huynhthanhdung110518@gmail.com](mailto:huynhthanhdung110518@gmail.com)
+*   🧠  I'm learning Data Science and Analytics at Simmons University### Skills 
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+</p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://www.linkedin.com/in/dilys-huynh-9078ba243/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
