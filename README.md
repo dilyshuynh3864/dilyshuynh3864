@@ -5,13 +5,13 @@
 ### My name is Dilys Huynh
 ============================
 
-Data Science and Analytics Student
+Information Technology Student
 ----------------------------------
 
-I'm a data analytics student who is passionate about exploring and analyzing data to extract valuable insights. My interests include data visualization, statistical modeling, and machine learning. I am constantly seeking to improve my skills and knowledge in these areas by undertaking new projects and learning from experienced professionals.
+I am an Information Technology student with a strong passion for data exploration and analysis. My interests span data visualization, statistical modeling, and machine learning, and I enjoy transforming complex data into meaningful insights that drive informed decisions. I’m constantly seeking to grow by taking on new projects, collaborating with others, and learning from experienced professionals in the field.
 
 *  You can contact me at [huynhthanhdung110518@gmail.com](mailto:huynhthanhdung110518@gmail.com)
-*  I'm learning Data Science and Analytics at Simmons University
+*  I'm learning Information Technology at RMIT Vietnam University 
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
